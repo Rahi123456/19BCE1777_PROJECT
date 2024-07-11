@@ -1,0 +1,6 @@
+UserID: 7239016922 | Time: 2024-07-11 16:31:04.538127 | Command: /bgmi | Target: 20.235.14.255 | Port: 12591 | Time: 300
+Username: @Rahi_221
+Target: 20.235.14.255
+Port: 12591
+Time: 300
+
